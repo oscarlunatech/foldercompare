@@ -6,4 +6,5 @@ It will find the folder with less files, assumed to be the one planned for remov
 Then it will give a report on the relative dates of cloned files
 
 #ONLY WORKS WITH FULL FILE PATHS AT THE MOMENT
+
 #modify date comparison does not work with spaces in folder names at the moment
