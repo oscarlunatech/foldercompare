@@ -1,4 +1,4 @@
-# foldercompare
+# folderdiff
 
 This script will Compare the chksum data of two folders
 Built to assist in the removal of duplicate directories
